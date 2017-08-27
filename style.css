@@ -1,0 +1,73 @@
+/* Note to students:
+
+Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!
+*/
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+}
+
+a {
+  color: ;
+  test-align: center;
+}
+
+header {
+  padding: 10px;
+  background: black;
+  color: white;
+  text-align: center;
+  font-family: Lucida;
+  font-stretch: extra-expanded;
+  font-weight: bold;
+
+
+}
+
+nav {
+  background-color: #888;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 20px;
+  font-size: 24px;
+  text-align: center;
+}
+
+section {
+  width: 95%;
+  margin: 0 auto;
+  padding: 5px;
+  min-height: 800px;
+  text-align: center;
+  font-style: italic;
+}
+
+section img {
+  margin-top: 20px;
+  align-content: center;
+}
+
+footer {
+  clear: left;
+  padding: 10px;
+  background: #888;
+  text-align: center;
+}

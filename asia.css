@@ -1,0 +1,79 @@
+﻿/* Note to students:
+
+Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: Open Sans;
+}
+
+a {
+  color: ;
+}
+
+header {
+  padding: 10px;
+  background: #fff;
+  color:#333 ;
+  font-size:24px;
+  text-shadow: 1px 1px 1px #000;
+  text-align: center;
+}
+
+nav {
+  background-color:#E84377;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 10px 20px;
+  font-size: 24px;
+}
+
+nav ul li a{
+text-decoration:none;
+font-size:16px;
+color: #f4f4f4;
+margin-left:20px;
+font-weight:bold;
+ }
+
+
+section {
+  width: 95%;
+  margin: 0 auto;
+  padding: 5px;
+  min-height: 800px;
+}
+
+section img {
+  margin-top: 20px;
+}
+
+footer {
+  clear: left;
+  padding: 10px;
+  background: #222;
+  color:#999;
+}
+
+footer p{
+  text-align: left;
+  margin-left: 20px;
+}

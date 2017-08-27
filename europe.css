@@ -1,0 +1,59 @@
+/* Note to students:
+
+Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!
+*/
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+}
+
+a {
+  background: yellow
+  color: blue;
+}
+
+header {
+  padding: 10px;
+  background: yellow;
+  color: blue;
+  text-shadow: 1px 1px 1px #000;
+  text-align: left;
+}
+
+nav {
+  width: 200px;
+  min-height: 750px;
+  float: right;
+  background-color: yellow;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom: 10px;
+}
+
+section {
+  width: 500px;
+  float: left;
+  padding: 5px;
+  line-height: 24px;
+}
+
+footer {
+  clear: right;
+  padding: 10px;
+  background: red;
+  color: lightgreen;
+  text-align: ;
+}
